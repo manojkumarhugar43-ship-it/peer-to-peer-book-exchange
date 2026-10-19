@@ -1,0 +1,8 @@
+{
+  "name": "BookSwap — Peer-to-Peer Book Exchange",
+  "description": "Peer-to-peer book exchange community to lend, borrow, swap, and give away books nearby.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
